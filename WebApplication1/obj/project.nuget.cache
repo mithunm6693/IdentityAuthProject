@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aoDWLtIqnFA=",
+  "dgSpecHash": "cYutZ6C/lFM=",
   "success": true,
-  "projectFilePath": "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.mahibal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\m.mahibal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.6\\microsoft.aspnetcore.cryptography.internal.8.0.6.nupkg.sha512",

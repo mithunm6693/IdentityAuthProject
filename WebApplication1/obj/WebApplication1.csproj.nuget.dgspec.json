@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\m.mahibal\\.nuget\\packages\\",
-        "outputPath": "C:\\Study Projects\\DotNet\\IdentityAuthApp\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Study Projects\\DotNet\\IdentityAuthProject\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mahibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
